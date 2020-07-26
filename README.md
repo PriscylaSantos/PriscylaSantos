@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Priscyla, tenho 28 anos e trabalho [studioApp](https://www.studioapp.com.br/) como Analista de Sistemas. 
+Meu nome é Priscyla, tenho 28 anos e trabalho na [studioApp](https://www.studioapp.com.br/) como Analista de Sistemas. 
 
 Sou formada em Ciência da Computação pelo IF SUDESTE de Minas Gerais - campus Rio Pomba e atualmente estou realizando uma 
 pós-graduação na área de Data Science(Ciência de Dados)
