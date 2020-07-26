@@ -39,4 +39,4 @@ Minhas redes sociais e sites:
 
 Meus pronomes são **ela / dela**
 
-![](priscyla_octocat.png)
+![Meu Octocat](https://github.com/PriscylaSantos/PriscylaSantos/blob/master/priscyla_octocat.png)
