@@ -38,3 +38,5 @@ Minhas redes sociais e sites:
   - [Blog sobre tecnologia](http://priscylasantos.github.io/blog): ainda em contrução, mas em breve sai o primeiro post
 
 Meus pronomes são **ela / dela**
+
+![Meu octocat](octocat.png)
