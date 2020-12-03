@@ -34,8 +34,6 @@ Minhas redes sociais e sites:
   
   - [Site pessoal](http://priscylasantos.github.io/): currículo online com algumas informações sobre minhas habilidades 
   pessoais e profissionais
-  
-  - [Blog sobre tecnologia](http://priscylasantos.github.io/blog): blog onde compartilho conhecimento/experiências
 
 Meus pronomes são **ela / dela**
 
