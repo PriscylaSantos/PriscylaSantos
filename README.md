@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Priscyla, tenho 28 anos e trabalho na [studioApp](https://www.studioapp.com.br/) como Analista de Sistemas. 
+Meu nome é Priscyla, atualmente moro em Juiz de Fora(MG) e trabalho na [studioApp](https://www.studioapp.com.br/) como Analista de Sistemas. 
 
-Sou formada em Ciência da Computação pelo IF SUDESTE de Minas Gerais - campus Rio Pomba e atualmente estou realizando uma 
-pós-graduação na área de Data Science(Ciência de Dados)
+Sou formada em Ciência da Computação pelo IF SUDESTE de Minas Gerais - campus Rio Pomba.
 
-Aqui no GitHub existem alguns respositórios de estudos e de atividades/trabalhos realizados na gradução e pós-graduação.
+Aqui no GitHub existem alguns respositórios de estudos e de atividades/trabalhos realizados na gradução.
 
 Minhas redes sociais e sites:
 
