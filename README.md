@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Priscyla, atualmente moro em Juiz de Fora(MG) e trabalho na [studioApp](https://www.studioapp.com.br/) como Analista de Sistemas. 
+Sou uma profissional de Ciência da Computação apaixonada por transformar ideias em soluções tecnológicas inovadoras. Com mais de 10 anos de experiência em desenvolvimento web, trago expertise em PHP e Python, utilizando frameworks como Django Rest Framework (DRF) e Flask para construir APIs eficientes.
 
-Sou formada em Ciência da Computação pelo IF SUDESTE de Minas Gerais - campus Rio Pomba.
+Minha jornada inclui a manipulação habilidosa de dados com Pandas, o consumo de APIs REST e SOAP para integrações dinâmicas, e a obtenção de dados através de Web Scraping.
 
-Aqui no GitHub existem alguns respositórios de estudos e de atividades/trabalhos realizados na gradução.
+Além de contribuir para projetos robustos, estou embarcando em uma nova jornada de aprendizado para me tornar uma Desenvolvedora Salesforce. Estou animada para enfrentar novos desafios e expandir meu conjunto de habilidades.
 
 Minhas redes sociais e sites:
 
