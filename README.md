@@ -18,7 +18,7 @@ Atualmente, estou mergulhando nos estudos para aperfeiçoar meus conhecimentos e
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriscylaCSantos)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/PriscylaCSantos)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVuVp8Sv76CrsDgTgiMsEYA/playlists?view_as=subscriber)
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://priscylasantos.github.io/estudos-gerais/curriculo.html)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://priscylasantos.github.io/blog/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santospriscyla@gmail.com)
 [![Trailblazer](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=trailblazer&logoColor=white)](https://www.salesforce.com/trailblazer/priscylacsantos)
 [![Kaggle](https://img.shields.io/badge/Kaggle-00A1E0?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/priscylasantos)
